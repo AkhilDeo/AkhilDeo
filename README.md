@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkhilDeo
 - 👀 I’m interested in software engineering and investing
 - 🌱 I’m currently learning about data structures
-- 💞️ I’m looking to collaborate on nothing right now, but this will change soon
 - 📫 How to reach me: adeo1@jhu.edu
 
 <!---
