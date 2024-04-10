@@ -49,6 +49,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<!-- 📈 **My GitHub Stats:**
+
+![Akhil's GitHub stats-Dark](https://github-readme-stats-rho-liart-33.vercel.app/api?username=akhildeo&hide=stars,issues&show_icons=true&theme=transparent) -->
+
 Some of my previous roles:
 
 - 💸 Software Engineering Intern at [PayPal](https://paypal.com)
