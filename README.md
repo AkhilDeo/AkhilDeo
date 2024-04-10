@@ -43,6 +43,10 @@ I conduct research in medical robotics with the [JHU Laboratory for Computation 
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 Some of my previous roles:
