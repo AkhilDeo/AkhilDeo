@@ -60,7 +60,9 @@ Some of my previous roles:
 <div align="center"><h3><b>Where to find me</b></h3>
 
 <a href="https://www.linkedin.com/in/akhildeo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/akhil.deo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </div>
+<a href="mailto:adeo1@jhu.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+</div>
 
 <!---
 AkhilDeo/AkhilDeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
