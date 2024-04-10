@@ -7,11 +7,12 @@ I conduct research in medical robotics with the [JHU Laboratory for Computation 
 
 <h3>Languages, Frameworks, and Tools I code with</h3>
 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-squaree&logo=c&logoColor=white" />&nbsp;<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-squaree&logo=c&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />&nbsp;<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
