@@ -1,8 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&color=F7F7F7&random=false&width=435&lines=Hey!+Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=F7F7F7&random=false&width=435&lines=Hey!+Nice+to+meet+you." alt="Typing SVG" /></a>
+---
 
 I’m @AkhilDeo. I'm a software engineer from Coral Springs, Florida, studying computer science at Johns Hopkins University. My interests include machine learning, artificial intelligence, computer vision, and robotics.
 
-I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality! My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit (a research version of the famous da Vinci surgical robotics system). 
+I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality. My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit. See [my poster](https://doi.org/10.31256/HSMR2023.63) in the Hamlyn Symposium on Medical Robotics for more info. 
 
 <h3>Languages, Frameworks, and Tools I code with</h3>
 
@@ -14,7 +15,8 @@ I conduct research in medical robotics with the [JHU Laboratory for Computation 
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" /><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
@@ -44,7 +46,11 @@ Some of my previous roles:
 - 💻 Director and a Full Stack Developer for [HopHacks](https://hophacks.com/)
 - 📓 Software Engineering Intern at [uCredit JHU](https://ucredit.me/). 
 
+---
+<div align="center"><h4><b>Where to find me</b></h4>
 
+<a href="https://www.linkedin.com/in/akhildeo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/akhil.deo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </div>
 
 <!---
 AkhilDeo/AkhilDeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
