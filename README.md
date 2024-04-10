@@ -3,7 +3,7 @@
 
 I’m @AkhilDeo. I'm a software engineer from Coral Springs, Florida, studying computer science at Johns Hopkins University. My interests include machine learning, artificial intelligence, computer vision, and robotics.
 
-I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality. My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit. See [my poster](https://doi.org/10.31256/HSMR2023.63) in the Hamlyn Symposium on Medical Robotics for more info. 
+I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality. My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more information. 
 
 <h3>Languages, Frameworks, and Tools I code with</h3>
 
