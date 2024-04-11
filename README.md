@@ -44,6 +44,8 @@ I conduct research in medical robotics with the [JHU Laboratory for Computation 
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 2 hrs 28 mins
+
 Markdown     56 mins         ████████░░░░░░░░░░░░░░░░░   32.24 %
 Python       41 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
 Other        25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
