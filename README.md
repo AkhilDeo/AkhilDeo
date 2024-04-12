@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
 [![Email Badge](https://img.shields.io/badge/adeo1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
 
-Welcome to my GitHub Profile! I'm a SWE studying CS @ JHU & Researcher @ [JHU LCSR](https://lcsr.jhu.edu/), previously SWE intern @ Paypal, Director @ HopHacks, and SWE Intern @ uCredit. My interests include machine learning, artificial intelligence, computer vision, and robotics. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/). 😃
+Welcome to my GitHub Profile! I'm a SWE studying CS @ JHU & Researcher @ [JHU LCSR](https://lcsr.jhu.edu/), previously SWE intern @ Paypal, Director @ HopHacks, and SWE Intern @ uCredit. My interests include machine learning, artificial intelligence, computer vision, and robotics. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/)!
 
-Currently working on improving pre-operative protocols for the Nuss Procedure using AR. Previously, I developed a phone app that could teleoperate a da Vinci Surgical System. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more info
+Currently working on improving pre-operative protocols for the Nuss Procedure using AR. Previously, I developed a phone app that could teleoperate a da Vinci Surgical System. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more info 😃
 
 <!-- See my personal website for more info -->
 
