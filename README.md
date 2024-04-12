@@ -1,7 +1,7 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=9998&color=F7F7F7&random=false&width=435&lines=Hey%2C+I'm+Akhil!" alt="Typing SVG" /></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
+[![Email Badge](https://img.shields.io/badge/adeo1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
 
 Welcome to my GitHub Profile! I'm a software engineer from Coral Springs, Florida, studying CS @ Johns Hopkins. My interests include machine learning, artificial intelligence, computer vision, and robotics.
 
