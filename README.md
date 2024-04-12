@@ -1,6 +1,9 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=F7F7F7&random=false&width=435&lines=Hey!+Nice+to+meet+you." alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=9998&color=F7F7F7&random=false&width=435&lines=Hey%2C+I'm+Akhil!" alt="Typing SVG" /></a>
 
-I’m @AkhilDeo. I'm a software engineer from Coral Springs, Florida, studying computer science at Johns Hopkins University. My interests include machine learning, artificial intelligence, computer vision, and robotics.
+[![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
+
+Welcome to my GitHub Profile! I'm a software engineer from Coral Springs, Florida, studying CS @ Johns Hopkins. My interests include machine learning, artificial intelligence, computer vision, and robotics.
 
 I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality. My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more information.
 
@@ -39,7 +42,7 @@ I conduct research in medical robotics with the [JHU Laboratory for Computation 
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
-📊 **This week, I spent my time on:**
+📊 **This week:**
 
 <!--START_SECTION:waka-->
 
@@ -64,13 +67,6 @@ Some of my previous roles:
 - 💸 Software Engineering Intern at [PayPal](https://paypal.com)
 - 💻 Director and a Full Stack Developer for [HopHacks](https://hophacks.com/)
 - 📓 Software Engineering Intern at [uCredit JHU](https://ucredit.me/).
-
----
-
-<div align="center"><h3><b>Where to find me</b></h3>
-
-<a href="https://www.linkedin.com/in/akhildeo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:adeo1@jhu.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 </div>
 
