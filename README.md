@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
 [![Email Badge](https://img.shields.io/badge/adeo1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
 
-Welcome to my GitHub Profile! I'm a software engineer from Coral Springs, Florida, studying CS @ Johns Hopkins. My interests include machine learning, artificial intelligence, computer vision, and robotics.
+Welcome to my GitHub Profile! I'm a SWE studying CS @ JHU & Researcher @ [JHU LCSR](https://lcsr.jhu.edu/), previously SWE intern @ Paypal, Director @ HopHacks, and SWE Intern @ uCredit. My interests include machine learning, artificial intelligence, computer vision, and robotics. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/). 😃
 
-I conduct research in medical robotics with the [JHU Laboratory for Computation Sensing and Robotics](https://lcsr.jhu.edu/). My current project entails improving the pre-operative protocols for conducting the Nuss Procedure using augmented reality. My previous project was a nifty phone app that could teleoperate a da Vinci Research Kit. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more information.
+Currently working on improving pre-operative protocols for the Nuss Procedure using AR. Previously, I developed a phone app that could teleoperate a da Vinci Surgical System. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more info
+
+<!-- See my personal website for more info -->
 
 <h3>Languages, Frameworks, and Tools I code with</h3>
 
@@ -61,12 +63,6 @@ Text         20 mins         █▒░░░░░░░░░░░░░░░
 <!-- 📈 **My GitHub Stats:**
 
 ![Akhil's GitHub stats-Dark](https://github-readme-stats-rho-liart-33.vercel.app/api?username=akhildeo&hide=stars,issues&show_icons=true&theme=transparent) -->
-
-Some of my previous roles:
-
-- 💸 Software Engineering Intern at [PayPal](https://paypal.com)
-- 💻 Director and a Full Stack Developer for [HopHacks](https://hophacks.com/)
-- 📓 Software Engineering Intern at [uCredit JHU](https://ucredit.me/).
 
 </div>
 
