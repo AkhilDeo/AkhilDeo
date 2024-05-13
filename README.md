@@ -52,7 +52,7 @@ Currently working on improving pre-operative protocols for the Nuss Procedure us
 Total Time: 1 hr 25 mins
 
 TypeScript   56 mins         ████████████████▒░░░░░░░░   65.88 %
-Prisma       21 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Prisma       21 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
 Bash         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
