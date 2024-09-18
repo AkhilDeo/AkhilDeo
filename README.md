@@ -44,6 +44,10 @@ Currently working on improving pre-operative protocols for the Nuss Procedure us
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- 📈 **My GitHub Stats:**
 
 ![Akhil's GitHub stats-Dark](https://github-readme-stats-rho-liart-33.vercel.app/api?username=akhildeo&hide=stars,issues&show_icons=true&theme=transparent) -->
