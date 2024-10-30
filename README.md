@@ -48,12 +48,12 @@ Currently working on improving pre-operative protocols for the Nuss Procedure us
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 35 mins
+Total Time: 35 mins
 
-Python   6 hrs 57 mins   ████████████████████▒░░░░   81.51 %
-Other    55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Text     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Java     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Java     17 mins         ████████████░░░░░░░░░░░░░   48.50 %
+Python   14 mins         ██████████░░░░░░░░░░░░░░░   39.51 %
+Perl     3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
