@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
 [![Email Badge](https://img.shields.io/badge/adeo1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
 
-Welcome to my GitHub Profile! I'm an SWE studying CS @ JHU, a Student Researcher @ [JHU LCSR](https://lcsr.jhu.edu/), previously a SWE / Applied Science Intern @ Amazon AGI, SWE intern @ Paypal, a Director @ HopHacks, an SWE Intern @ uCredit. My interests include ML, AI, NLP, robotics, and computer vision. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/)!
+Welcome to my GitHub Profile! I study CS student @ Johns Hopkins, a Student Researcher @ [JHU CLSP](https://www.clsp.jhu.edu/), a Student Researcher @ [JHU LCSR](https://lcsr.jhu.edu/), previously a SDE Intern @ Amazon AGI (doing research though), SWE intern @ Paypal, a Director @ HopHacks, and a SWE Intern @ uCredit. My interests include ML, AI, NLP, robotics, and computer vision. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/)!
 
-Currently working on improving pre-operative protocols for the Nuss Procedure using AR. Previously, I developed a phone app that could teleoperate a da Vinci Surgical System. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more info 😃
+Currently working on improving the reasoning abilities of large language models on dialogue-centric texts, and on the pre-operative protocols for the Nuss Procedure using augmented reality. Previously, I developed a phone app that could teleoperate a da Vinci Surgical System. See [my poster](https://doi.org/10.31256/HSMR2023.63) published by the Hamlyn Symposium on Medical Robotics for more info 😃
+
+If you want to learn more about me, check out my [personal website](https://akhildeo.com/).
 
 <!-- See my personal website for more info -->
 
