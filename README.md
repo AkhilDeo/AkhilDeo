@@ -50,13 +50,13 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 36 mins
+Total Time: 24 hrs 44 mins
 
-Python             22 hrs 4 mins   ████████████████████░░░░░   79.93 %
-Text               2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Markdown           1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-textmate           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-JSON               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python             19 hrs 8 mins   ███████████████████▒░░░░░   77.37 %
+Text               3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Markdown           1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+textmate           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JSON               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
