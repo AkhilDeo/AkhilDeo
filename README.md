@@ -52,7 +52,7 @@ If you want to learn more about me, check out my [personal website](https://akhi
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Other   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
