@@ -50,12 +50,10 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 mins
+Total Time: 6 mins
 
-Python             27 mins         ██████████████░░░░░░░░░░░   55.74 %
-JSON               21 mins         ███████████░░░░░░░░░░░░░░   44.26 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON     4 mins          ████████████████░░░░░░░░░   63.35 %
+Python   2 mins          █████████░░░░░░░░░░░░░░░░   36.65 %
 ```
 
 <!--END_SECTION:waka-->
