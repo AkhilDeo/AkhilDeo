@@ -50,13 +50,13 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 17 mins
+Total Time: 21 hrs 22 mins
 
-Python       9 hrs 4 mins    █████████████░░░░░░░░░░░░   52.45 %
-JSON         7 hrs 33 mins   ███████████░░░░░░░░░░░░░░   43.68 %
-Docker       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-TOML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JSON         10 hrs 43 mins  ████████████▓░░░░░░░░░░░░   50.20 %
+Python       10 hrs 10 mins  ████████████░░░░░░░░░░░░░   47.60 %
+Docker       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TOML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
