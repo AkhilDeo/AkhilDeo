@@ -50,13 +50,13 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 9 mins
+Total Time: 11 hrs 44 mins
 
-TypeScript   9 hrs 23 mins   ███████████████████░░░░░░   76.63 %
-Python       1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-JSON         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-TeX          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+TypeScript   8 hrs 59 mins   ███████████████████░░░░░░   75.82 %
+Python       1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+JSON         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+TeX          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
