@@ -50,13 +50,13 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 7 mins
+Total Time: 7 hrs 4 mins
 
-TypeScript   1 hr 58 mins    ████████░░░░░░░░░░░░░░░░░   31.82 %
-JSON         1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Other        1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Bash         59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Python       28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+TypeScript   4 hrs 2 mins    ████████████▒░░░░░░░░░░░░   49.44 %
+JSON         1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Other        1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Bash         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
