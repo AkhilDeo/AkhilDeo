@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-akhildeo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhildeo/)](https://www.linkedin.com/in/akhildeo/)
 [![Email Badge](https://img.shields.io/badge/adeo1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adeo1@jhu.edu)
 
-Welcome to my GitHub Profile! I am a CS student @ Johns Hopkins, and currently a Student Researcher @ [JHU CLSP](https://www.clsp.jhu.edu/) and a Student Researcher @ [JHU LCSR](https://lcsr.jhu.edu/). I've previously interned @ Amazon AGI, Scale AI, AWS, and Paypal. Some other roles I've had are as Director of [HopHacks](https://hophacks.com/), and SWE Intern at uCredit. My interests include ML, AI, NLP, robotics, and computer vision. Thanks for visiting my profile and I'd love to connect here and on [LinkedIn](https://www.linkedin.com/in/akhildeo/)!
+Welcome to my GitHub Profile! I am a CS student @ Johns Hopkins, and currently a Student Researcher @ [JHU CLSP](https://www.clsp.jhu.edu/). I've previously interned @ Amazon AGI, AWS, Scale AI, and Paypal. I was previous a student researcher @ JHU LCSR, and was also the the Director of [HopHacks](https://hophacks.com/). My interests include NLP (alignment) and robotics. Thanks for visiting my profile and I'd love to connect here and on [X]([https://www.linkedin.com/in/akhildeo/](https://x.com/akhil_deo1))!
 
-Currently working on improving the social reasoning and theory-of-mind abilities of large language models, and dabbling in new learning strategies via reinforcement learning fine-tuning. Previously, I developed a multi-agent system for superior unit test generation (published in [AAAI](https://doi.org/10.1609/aaai.v39i28.35246)), and a phone app that could teleoperate a da Vinci Surgical System (published by the [Hamlyn Symposium on Medical Robotics](https://doi.org/10.31256/HSMR2023.63)).
+Currently working on improving reasoning performance and faithfulness in LMs through more dense verifiable rewards. Previously, I evaluated the theory-of-mind abilities of large language models (see my work [here](https://huggingface.co/datasets/adeo1/SocialNLI)), and developed a multi-agent system for superior unit test generation (published in [AAAI](https://doi.org/10.1609/aaai.v39i28.35246)) and a mobile app that could teleoperate a da Vinci Surgical System (published in the [Hamlyn Symposium on Medical Robotics](https://doi.org/10.31256/HSMR2023.63)).
 
 If you want to learn more about me, check out my [personal website](https://akhildeo.com/).
 
@@ -45,25 +45,6 @@ If you want to learn more about me, check out my [personal website](https://akhi
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-
-📊 **This week:**
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 46 mins
-
-Markdown     1 hr 8 mins     ███████████████░░░░░░░░░░   60.62 %
-C            31 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 %
-Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Python       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-```
-
-<!--END_SECTION:waka-->
-
-<!-- 📈 **My GitHub Stats:**
-
-![Akhil's GitHub stats-Dark](https://github-readme-stats-rho-liart-33.vercel.app/api?username=akhildeo&hide=stars,issues&show_icons=true&theme=transparent) -->
 
 </div>
 
